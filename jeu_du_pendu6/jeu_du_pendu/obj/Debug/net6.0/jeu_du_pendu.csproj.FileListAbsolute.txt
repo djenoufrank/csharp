@@ -1,0 +1,14 @@
+D:\github\c#\jeu_du_pendu6\jeu_du_pendu\bin\Debug\net6.0\jeu_du_pendu.exe
+D:\github\c#\jeu_du_pendu6\jeu_du_pendu\bin\Debug\net6.0\jeu_du_pendu.deps.json
+D:\github\c#\jeu_du_pendu6\jeu_du_pendu\bin\Debug\net6.0\jeu_du_pendu.runtimeconfig.json
+D:\github\c#\jeu_du_pendu6\jeu_du_pendu\bin\Debug\net6.0\jeu_du_pendu.dll
+D:\github\c#\jeu_du_pendu6\jeu_du_pendu\bin\Debug\net6.0\jeu_du_pendu.pdb
+D:\github\c#\jeu_du_pendu6\jeu_du_pendu\obj\Debug\net6.0\jeu_du_pendu.GeneratedMSBuildEditorConfig.editorconfig
+D:\github\c#\jeu_du_pendu6\jeu_du_pendu\obj\Debug\net6.0\jeu_du_pendu.AssemblyInfoInputs.cache
+D:\github\c#\jeu_du_pendu6\jeu_du_pendu\obj\Debug\net6.0\jeu_du_pendu.AssemblyInfo.cs
+D:\github\c#\jeu_du_pendu6\jeu_du_pendu\obj\Debug\net6.0\jeu_du_pendu.csproj.CoreCompileInputs.cache
+D:\github\c#\jeu_du_pendu6\jeu_du_pendu\obj\Debug\net6.0\jeu_du_pendu.dll
+D:\github\c#\jeu_du_pendu6\jeu_du_pendu\obj\Debug\net6.0\refint\jeu_du_pendu.dll
+D:\github\c#\jeu_du_pendu6\jeu_du_pendu\obj\Debug\net6.0\jeu_du_pendu.pdb
+D:\github\c#\jeu_du_pendu6\jeu_du_pendu\obj\Debug\net6.0\jeu_du_pendu.genruntimeconfig.cache
+D:\github\c#\jeu_du_pendu6\jeu_du_pendu\obj\Debug\net6.0\ref\jeu_du_pendu.dll
